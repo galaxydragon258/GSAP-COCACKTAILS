@@ -15,10 +15,10 @@ function Navbar() {
                 
         });
         navTween.fromTo('nav',{
-            backgroundColor: 'transparent',
+            backgroundColor: 'bg-transparent',
         },
         {
-            backgroundColor: '#0000050',
+            backgroundColor: 'bg-black',
             backgroundFilter: 'blur(10px)',
             duration: 1,
             ease: 'power1.inOut'
