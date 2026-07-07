@@ -27,7 +27,7 @@ function About() {
         from('.top-grid, .bottom-grid',{
             opacity:0,
             ease:'power1.inOut',
-            stagger:0.05,
+            stagger:0.04,
             duration:1,
         },'-=0..5')
 
